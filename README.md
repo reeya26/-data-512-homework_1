@@ -14,8 +14,8 @@ This source contains the list of Article names along with website links
 
 #### Data files according to Access methods
 
-- [Desktop](https://github.com/reeya26/data-512-homework_1/blob/main/json/desktop.json)
-- [Mobile](https://github.com/reeya26/data-512-homework_1/blob/main/json/mobile.json)
-- [Total Desktop+Mobile](https://github.com/reeya26/data-512-homework_1/blob/main/json/total.json)
+- [Desktop](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_desktop_201501_202209.json)
+- [Mobile](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_mobile_201501_202209.json)
+- [Total Desktop+Mobile](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_cumulative_201501_202209.json)
 
 #### Charts
