@@ -6,10 +6,18 @@ This repository contains the data files, code and results of Homework 1, for the
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/reeya26/data-512-homework_1/blob/main/LICENSE) ![Language](https://img.shields.io/badge/language-python-blue.svg)
 
-### Data 
+## Resources Used
+- Editor used: Jupyter Notebook
+- Python version: 3.9.4
+- Packages used: json, time, requests, urllib, pandas, seaborn, matplotlib
 
-- [Source of Dinosaur articles](https://docs.google.com/spreadsheets/d/1zfBNKsuWOFVFTOGK8qnTr2DmHkYK4mAACBKk1sHLt_k/edit?usp=sharing)
-This dataset contains the list of Article names along with website links
+
+## Data 
+
+Source Files:
+
+- [Dinosaur articles](https://docs.google.com/spreadsheets/d/1zfBNKsuWOFVFTOGK8qnTr2DmHkYK4mAACBKk1sHLt_k/edit?usp=sharing)
+This dataset contains the list of Wikipedia Article names along with website links
 - [Wikimedia REST API](https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end) The API is used to pull-in the Page Views for each Article Title. Licensed under the [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) and [GFDL](https://www.gnu.org/copyleft/fdl.html)
 
 Intermediary Files:
@@ -19,7 +27,27 @@ Intermediary Files:
 - mobweb_dict: Stores the result of the API Access call, where the articles have been accessed via a Mobile Website
 - total: Stores the cummulative sum of all the above dictionaries
 
-### Results
+## Project Organization
+
+This package has the following structure.
+
+```
+data-512-homework_1/
+  |- license
+  |- readme.md
+  |- data/
+    |- dinosaur.genera.cleaned
+  |- json/
+    |- dino_monthly_cumulative_201501_202209.json
+    |- dino_monthly_desktop_201501_202209.json
+    |- dino_monthly_mobile_201501_202209.json
+  |- results/
+  |- Analyzing_Monthly_Article_Traffic
+    
+```
+    
+    
+## Results
 
 We obtain two results from this analysis.
 
