@@ -27,9 +27,9 @@ We obtain two results from this analysis.
 #### 1. List of Dictionaries saved as Json files
 
 
-- [Monthly desktop access](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_desktop_201501_202209.json)
-- [Monthly mobile access](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_mobile_201501_202209.json)
-- [Monthly cumulative](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_cumulative_201501_202209.json)
+- [Monthly desktop access](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_desktop_201501_202209.json) : Monthly desktop page traffic is based on one single request.
+- [Monthly mobile access](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_mobile_201501_202209.json) : The API separates mobile access types into two separate requests, summing these to make one count for all mobile pageviews.
+- [Monthly cumulative](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_cumulative_201501_202209.json) : Monthly cumulative data is the sum of all mobile, and all desktop traffic per article.
 
 #### 2. Visualizations based on the analysis
  
