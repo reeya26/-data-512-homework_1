@@ -42,6 +42,9 @@ data-512-homework_1/
     |- dino_monthly_desktop_201501_202209.json
     |- dino_monthly_mobile_201501_202209.json
   |- results/
+    |- Q1: Maximum Average and Minimum Average.png
+    |- Q2: Top 10 Peak Page Views.png
+    |- Q3: Fewest Months of Data.png
   |- Analyzing_Monthly_Article_Traffic
     
 ```
@@ -60,8 +63,17 @@ We obtain two results from this analysis.
 - [Monthly cumulative](https://github.com/reeya26/data-512-homework_1/blob/main/json/dino_monthly_cumulative_201501_202209.json) : Monthly cumulative data is the sum of all mobile, and all desktop traffic per article.
 
 #### 2. Visualizations based on the analysis
- 
 
  
+ - Top 10 Peak Page Views Maximum Average and Minimum Average
  
+![Result 1](https://github.com/reeya26/data-512-homework_1/blob/main/results/Q1-%20Maximum%20Average%20and%20Minimum%20Average.png "Result 1")
+
+- Top 10 Peak Page Views
+
+![Result 2](https://github.com/reeya26/data-512-homework_1/blob/main/results/Q2%20-%20Top%2010%20Peak%20Page%20Views.png "Result 2")
+
+- Fewest Months of Data
+
+![Result 3](https://github.com/reeya26/data-512-homework_1/blob/main/results/Q3%20-%20Fewest%20Months%20of%20Data.png "Result 3")
 
